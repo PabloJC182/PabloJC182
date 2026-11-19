@@ -16,9 +16,9 @@
 
 ### 🛠️ Tecnologías
 
-**Backend:** Node.js · Express · NestJS · FastAPI · Java
-**Frontend:** Vue · Angular · JavaScript · HTML/CSS
-**Bases de datos:** PostgreSQL · Supabase · MySQL
+**Backend:** Node.js · Express · NestJS · FastAPI · Java<br>
+**Frontend:** Vue · Angular · JavaScript · HTML/CSS<br>
+**Bases de datos:** PostgreSQL · Supabase · MySQL<br>
 **Herramientas:** Git · GitHub · Postman · Linux
 
 <p>
