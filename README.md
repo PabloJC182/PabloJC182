@@ -1,3 +1,4 @@
+<p align="center"><img src="banner.svg" width="100%" /></p>
 <h1 align="center">Hola, soy Pablo 👋</h1>
 <h3 align="center">Desarrollador Backend & Full Stack · Estudiante de Ingeniería en Sistemas</h3>
 
